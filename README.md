@@ -1,5 +1,9 @@
 # Display VMAX para el gabinete Aurora XYZ
 
+![Tema vmax](docs/vmax-preview.png)
+
+*Vista previa del tema vmax renderizada desde el código. Los datos son reales de la PC en ese momento.*
+
 Un panel de telemetría tipo HUD para el mini display USB del gabinete. Muestra la carga de CPU y RAM, los 24 hilos, el uso de los discos y la red, con temas inspirados en los HUD de videojuegos y de autos.
 
 **Por qué existe:** la app del fabricante consumía unos 300 MB de RAM para mostrar datos que no necesitaba. Este proyecto hace lo mismo con Python, en unos 50 MB y con un solo proceso.
