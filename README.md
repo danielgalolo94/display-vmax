@@ -15,9 +15,18 @@ Un panel de telemetría tipo HUD para el mini display USB del gabinete. Muestra 
 - Icono en la bandeja del sistema para cambiar de tema o salir (`display_todo.pyw`).
 - Arranque silencioso al iniciar sesión (`iniciar_silencio.vbs`).
 
+## Plataformas
+
+| Sistema | Estado | Qué incluye |
+|---|---|---|
+| **Windows 10/11** | Probado (Windows 11, Ryzen 9 9900X) | `tema.bat`, `display_todo.pyw`, `iniciar_silencio.vbs`, `run_display_windows.bat` |
+| **Linux** | Versión original del proyecto, **sin probar en esta versión** | `tema.sh`, `instalar-arch.sh`, `instalar-ubuntu.sh`, `waybar-display.sh`, `systemd/` |
+| **macOS** | No soportado | — |
+
+En Linux, los temas que leen la GPU usan `/sys/class/drm`, que Windows no tiene. Si lo probás en Linux, reportá lo que pase.
+
 ## Requisitos
 
-- Windows 10 u 11 (las versiones Linux de los scripts `tema.sh`, `waybar-display.sh` y `systemd/` siguen incluidas).
 - Python 3.13.
 - Un driver **WinUSB** en el dispositivo del display (se configura con [Zadig](https://zadig.akeo.ie/)).
   Ojo: esto quita el puerto serie COM que expone el display, así que la app del fabricante deja de funcionar mientras tanto.
