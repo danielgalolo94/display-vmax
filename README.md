@@ -20,7 +20,7 @@ Un panel de telemetría tipo HUD para el mini display USB del gabinete. Muestra 
 | Sistema | Estado | Qué incluye |
 |---|---|---|
 | **Windows 10/11** | Probado (Windows 11, Ryzen 9 9900X) | `tema.bat`, `display_todo.pyw`, `iniciar_silencio.vbs`, `run_display_windows.bat` |
-| **Linux** | Versión original del proyecto, **sin probar en esta versión** | `tema.sh`, `instalar-arch.sh`, `instalar-ubuntu.sh`, `waybar-display.sh`, `systemd/` |
+| **Linux** | Probado en Fedora, Arch, Omarchy, Pop!_OS y Ubuntu | `tema.sh`, `instalar-arch.sh`, `instalar-ubuntu.sh`, `waybar-display.sh`, `systemd/` |
 | **macOS** | No soportado | — |
 
 En Linux, los temas que leen la GPU usan `/sys/class/drm`, que Windows no tiene. Si lo probás en Linux, reportá lo que pase.
