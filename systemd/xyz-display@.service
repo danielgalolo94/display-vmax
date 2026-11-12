@@ -1,0 +1,11 @@
+[Unit]
+Description=XYZ Display Engine (%i)
+After=default.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/dg/display/display-engine.py %i
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target

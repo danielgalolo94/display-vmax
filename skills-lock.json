@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "skills": {
+    "cavecrew": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/cavecrew/SKILL.md",
+      "computedHash": "505d836228d1c5e14834ff5d62aad72390c7d27f79c6aa7f9a7a55ed6606d6a2"
+    },
+    "caveman": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman/SKILL.md",
+      "computedHash": "1902fa0b569912d0c05736d8d98a72097d9b82719aac88c0c1d03bb546f9176d"
+    },
+    "caveman-commit": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-commit/SKILL.md",
+      "computedHash": "790a4eeace0be35c6691faf923518ba5bd50f1f1305d1101d09dd4971be94e00"
+    },
+    "caveman-compress": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-compress/SKILL.md",
+      "computedHash": "1e9b3e2bf68b75dc0252c4328c8514bea79d4d8f7d7259da616ba7d12cad6865"
+    },
+    "caveman-help": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-help/SKILL.md",
+      "computedHash": "dd85267e76baad76995157e7b9f762dfa557cd58951ee92af0c283f48aa26537"
+    },
+    "caveman-review": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-review/SKILL.md",
+      "computedHash": "fb7214a1c5793bae6ba8b1be4329e2e6f40dbec6dd911dfb335ad29f09c316a1"
+    },
+    "caveman-stats": {
+      "source": "juliusbrussee/caveman",
+      "sourceType": "github",
+      "skillPath": "skills/caveman-stats/SKILL.md",
+      "computedHash": "47ce2de3d6cb39a75047b5c962e4eb3da15594e7397c94103e9a104d42626553"
+    },
+    "ckm:banner-design": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/banner-design/SKILL.md",
+      "computedHash": "7bbf0f48704f5c40436e3466d7ef9bcbafe35a84eb8c3e9d0ab76408a57bac5c"
+    },
+    "ckm:brand": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/brand/SKILL.md",
+      "computedHash": "89c8579d232e6e14152a8b898d49eb94f59aa7288ed8ca103cd3b38cb082e00a"
+    },
+    "ckm:design": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design/SKILL.md",
+      "computedHash": "2020e511bb6fbc1dbc233d1da335ec7e8cb553d6e321d34cec4555efcc9ec8f1"
+    },
+    "ckm:design-system": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design-system/SKILL.md",
+      "computedHash": "49b8308dc428c66b0983f4b3d102c522c495f62538121064d1e82a040b1afd2c"
+    },
+    "ckm:slides": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/slides/SKILL.md",
+      "computedHash": "6d753831914ed6703b7222153f2710efc2f195f0ab24fd2119c76c2b6d1a6ba1"
+    },
+    "ckm:ui-styling": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-styling/SKILL.md",
+      "computedHash": "9ae38e4e201f338b6150e462b98a2db0f2ae7c180c77e8cfb1d33eba9d33bf33"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "9e1c8b3103f92fa8092568a44fe64858de7c5c9dc65ce4bea8f168080e889cfd"
+    },
+    "ui-ux-pro-max": {
+      "source": "nexu-io/open-design",
+      "sourceType": "github",
+      "skillPath": "skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "13887b516bebbd2e97885435ea022b2aec36cc77224f639d098a47f2723865cb"
+    }
+  }
+}
